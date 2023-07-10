@@ -6,6 +6,3 @@ if(all(x in list1 for x in list2)):
     print("Yes, list is subset of other.")
 else:
     print("No, list is not subset of other.")
-
-    
-  
